@@ -16,7 +16,8 @@ The source code is licensed MIT. Copyright© 2023, AMD lab & Saito40
 
 **Tunny関連**\
 v0.4.0時点のTunny\
-https://www.youtube.com/watch?v=dL9xJLILw6g&amp;t=3797s \
+https://www.youtube.com/watch?v=dL9xJLILw6g&amp;t=3797s
+
 https://tunny-docs.deno.dev/ \
 https://optuna.org/
 
