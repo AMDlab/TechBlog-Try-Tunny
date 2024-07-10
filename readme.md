@@ -10,6 +10,11 @@
 
 ## LICENSE
 
+RhinocerosおよびGrasshopperはRobert McNeel & Associatesの登録商標です。
+
+Tunny is licensed under the MIT license.\
+Copyright© 2022, hrntsm
+
 The source code is licensed MIT. Copyright© 2023, AMD lab & Saito40
 
 ## Reference
